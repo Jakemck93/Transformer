@@ -1,0 +1,1 @@
+This is a basic transformer model I made that translates english to italian. I am currently working on overly annotating the model.py file so that it should be easy to follow for someone starting learn how transformers work. still a work in progress
